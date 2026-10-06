@@ -1,9 +1,8 @@
-# Amazon-AWS-SaaS-Sales-Dataset-Excel-Analysis.
 # Amazon AWS SaaS Sales Performance Dashboard
 
 
 
-![Dashboard Overview](images/Dashboard_Overview_V01.png)
+![Dashboard Overview](Dashboard_Overview_V01.png)
 
 
 
@@ -23,7 +22,7 @@ The initial raw data was quite messy—full of blank gaps, typing mistakes, inco
 
 Once the data was completely spotless, building the dashboard was smooth sailing. I created a dedicated KPI sheet and connected multiple Pivot Tables to bring the dashboard to life.
 
-🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 𝐈 𝐮𝐬𝐞𝐝 𝐢𝐧 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐱𝐜𝐞𝐥:
+## 🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 𝐈 𝐮𝐬𝐞𝐝 𝐢𝐧 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐱𝐜𝐞𝐥:
 
 Pivot Tables & Slicers
 

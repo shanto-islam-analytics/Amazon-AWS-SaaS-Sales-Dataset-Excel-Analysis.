@@ -1,4 +1,20 @@
 # Amazon-AWS-SaaS-Sales-Dataset-Excel-Analysis.
+# Amazon AWS SaaS Sales Performance Dashboard
+
+
+
+![Dashboard Overview](images/Dashboard_Overview_V01.png)
+
+
+
+## 📌 Overview
+Excel dashboard built from a Kaggle B2B SaaS dataset of 9,994 transactions. Raw data was cleaned, then analyzed with a KPI sheet and Pivot Tables.
+
+## 📊 Key Metrics
+| Total Sales | Total Cost | Total Profit | Profit Margin | Orders |
+|---|---|---|---|---|
+| $2.3M | $2.0M | $286K | 12% | 9,994 |
+
 I recently took on a personal project using the 𝗔𝗺𝗮𝘇𝗼𝗻 𝗔𝗪𝗦 𝗦𝗮𝗮𝗦 𝗦𝗮𝗹𝗲𝘀 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗳𝗿𝗼𝗺 𝗞𝗮𝗴𝗴𝗹𝗲. My main goal was to challenge myself, practice advanced data cleaning techniques, build a comprehensive dashboard, and add a solid project to my GitHub portfolio.
 
 The initial raw data was quite messy—full of blank gaps, typing mistakes, inconsistent text cases, and duplicate values. I cleaned the dataset step-by-step, removed the duplicates, and brought everything into a clean, uniform format.

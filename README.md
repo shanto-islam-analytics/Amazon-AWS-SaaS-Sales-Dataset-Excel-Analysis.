@@ -19,6 +19,4 @@ Complex Custom Formulas
 
 Advanced Formatting tools
 
-𝙉𝙤𝙬, 𝙄’𝙙 𝙡𝙤𝙫𝙚 𝙮𝙤𝙪𝙧 𝙛𝙚𝙚𝙙𝙗𝙖𝙘𝙠! How does the dashboard look? What else can I do to make the design or data presentation even better? If you have any suggestions, guides, or questions, please drop them in the comments below! 👇
-
 𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙨𝙤 𝙢𝙪𝙘𝙝 𝙛𝙤𝙧 𝙩𝙖𝙠𝙞𝙣𝙜 𝙩𝙝𝙚 𝙩𝙞𝙢𝙚 𝙩𝙤 𝙧𝙚𝙖𝙙 𝙖𝙣𝙙 𝙧𝙚𝙫𝙞𝙚𝙬 𝙢𝙮 𝙬𝙤𝙧𝙠!
